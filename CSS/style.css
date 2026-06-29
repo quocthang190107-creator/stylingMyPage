@@ -1,0 +1,38 @@
+body{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, times news romans;
+  font-size: 150%;
+}
+header{
+    background-color: antiquewhite;
+}
+nav {
+    background-color: azure;
+}
+main {
+    background-color: cornsilk;
+    font-size: 150%;
+}
+footer{
+    background-color: ivory;
+}
+li {
+    display: block;
+    width: 120%;
+}
+h1 {
+    text-align: justify-all;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, times news romans;
+    color: gainsboro;
+}
+p{
+    line-height: 150%;
+    color:blue;
+    background-color: antiquewhite;
+    font-family: Arial, courier, Impact !important;
+    font-style: italic;
+    text-align: center;
+    display: inline-block;
+    float: left;
+    clear: both;
+    overflow: scroll;
+}
